@@ -1,5 +1,7 @@
 # KanbanBoard
 
+Simple productivity kanban board style app created with Angular and styled with Material. Functionally the app works by dividing tasks in columns depending on their state of completion. There are create, edit and delete task functionalities.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.4.
 
 ## Development server
